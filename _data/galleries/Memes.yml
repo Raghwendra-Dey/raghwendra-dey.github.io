@@ -1,0 +1,58 @@
+picture_path: Memes
+preview:
+  filename: 1
+  original: 93904012_266374954759606_4247109295759425536_n.jpg
+  sizes:
+  - 93904012_266374954759606_4247109295759425536_n.jpg
+  thumbnail: 93904012_266374954759606_4247109295759425536_n.jpg
+pictures:
+- filename: 1
+  original: 93904012_266374954759606_4247109295759425536_n.jpg
+  sizes:
+  - 93904012_266374954759606_4247109295759425536_n.jpg
+  thumbnail: 93904012_266374954759606_4247109295759425536_n.jpg
+- filename: 2
+  original: 94888598_876025362915832_3360140348033597440_n.jpg
+  sizes:
+  - 94888598_876025362915832_3360140348033597440_n.jpg
+  thumbnail: 94888598_876025362915832_3360140348033597440_n.jpg
+- filename: 3
+  original: 95138466_2905457879503071_5133973016786501632_n.jpg
+  sizes:
+  - 95138466_2905457879503071_5133973016786501632_n.jpg
+  thumbnail: 95138466_2905457879503071_5133973016786501632_n.jpg
+- filename: 4
+  original: Screenshot from 2020-03-17 21-27-26.png
+  sizes:
+  - Screenshot from 2020-03-17 21-27-26.png
+  thumbnail: Screenshot from 2020-03-17 21-27-26.png
+- filename: 5
+  original: Screenshot from 2020-04-21 01-35-13.png
+  sizes:
+  - Screenshot from 2020-04-21 01-35-13.png
+  thumbnail: Screenshot from 2020-04-21 01-35-13.png
+- filename: 6
+  original: Screenshot from 2020-05-03 21-03-03.png
+  sizes:
+  - Screenshot from 2020-05-03 21-03-03.png
+  thumbnail: Screenshot from 2020-05-03 21-03-03.png
+- filename: 7
+  original: Screenshot from 2020-05-03 21-07-15.png
+  sizes:
+  - Screenshot from 2020-05-03 21-07-15.png
+  thumbnail: Screenshot from 2020-05-03 21-07-15.png
+- filename: 8
+  original: Screenshot from 2020-05-20 20-58-11.png
+  sizes:
+  - Screenshot from 2020-05-20 20-58-11.png
+  thumbnail: Screenshot from 2020-05-20 20-58-11.png
+# - filename: 9
+#   original: 9.jpg
+#   sizes:
+#   - 9.jpg
+#   thumbnail: 9-thumbnail.jpg
+# - filename: 10
+#   original: 10.jpg
+#   sizes:
+#   - 10.jpg
+#   thumbnail: 10-thumbnail.jpg
