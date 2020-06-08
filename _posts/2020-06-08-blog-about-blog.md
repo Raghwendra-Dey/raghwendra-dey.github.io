@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Blog About Blog (Recursion!!)
+layout: post
 author: Raghwendra Dey
 date: '2020-06-08 08:20:00 +05:30'
 tags:
-    - jekyll
-    - portfolio
+- jekyll
+- portfolio
 image: blog_about_blog.jpeg
 summary: Blog About Blog (Recursion!!)
 thumbnail: blog_about_blog.jpeg
@@ -14,17 +14,20 @@ comments: true
 
 ## Motivation
 
-Okay, So from the beginning itself web-development looks really very cool to me. Maybe because it have some geeky touch or maybe the cool terms like databases, servers always used to attract me. Infact i was very much interested in almost everything related to computers. So, right from the first semester itself, i applied my hands on pretty much whatever and wherever i could!! I thought during the summers itself to develop my personal site for me to write about me and some blogs about the things i would explore in the near future. But you see it is a tiresome work, and i am a bit lazy (I mean very lazy :p). So writing so much of code wasn't my cup of tea. But i came to know about the static site generator `Jekyll`, I thought of creating one using it.
+Okay, So from the beginning itself web-development looks really very cool to me. Maybe because it have some geeky touch or maybe the cool terms like databases, servers always used to attract me. Infact i was very much interested in almost everything related to computers. So, right from the first semester itself, i applied my hands on pretty much whatever and wherever i could!! Mostly i am more involved and interested in aerial robotics, deeplearning stuffs, but did liked the web scraping, browser automation, server side stuffs, etc (Obviously hated the front-end part :sweat_smile:). <br>
+
+I thought during the summers itself to develop one personal site for me, to write about me, and also some blogs about the things that i would explore in the near future. But you see it is a tiresome work, and i am a bit lazy (I mean very lazy :stuck_out_tongue:). So writing so much of code wasn't my cough of tea (i mean cup of tea :stuck_out_tongue:, sorry nasty joke :sweat_smile:). But i came to know about the static site generator [Jekyll](https://jekyllrb.com/), I thought of creating one using it. But not untill june 2020, i.e. during the lockdowns, i could convince my lazy mind and actually do something :stuck_out_tongue:.
 
 ## Lets get to the point
 
-Okay, so lets not bore you guys with the all emotional stuff :p. So i used `Jekyll` Static site generator to create this sweet little website. But creating one completely from the raw would have been quite a work. So, I took the shorter way and the most easiest way. I went to [Jekyll themes](http://jekyllthemes.org/) site and selected this one from the hundreds of the open source templates given there. Cloned the repo and modified it with my information and also tweaked around a bit with the stuffs out there and :tada: tada :tada: final product is in front of you!!<br>
+Okay, so lets not bore you guys with the all emotional stuff :stuck_out_tongue:. So i used `Jekyll` Static site generator to create this sweet little website. But creating one completely from the raw even using that would have been quite a work. So, I took the shorter and the most easiest way (Pro-gamer move :stuck_out_tongue_winking_eye:). I went to [Jekyll themes](http://jekyllthemes.org/) site and selected this one from the hundreds of the open source templates out there. Later i cloned the repo and modified it with my information and also tweaked around a bit with the stuffs in there and :tada: tada :tada: final product is in front of you!!<br>
+
+Well, ofcourse this didn't proved to be this simple and easy walk which it sounds there :point_up:. First thing is, i knew zero (i mean it) about jekyll and very basic (very very) of web-dev techs. So first, i started experimenting with the code changing things here and there, and looking at the effects. After several experiments, i gained sufficient knowledge about the code base which helped me to customize it according to the way i wanted.<br>
 
 This Particular theme is called `devlopr` theme. You can check out this theme [here](https://github.com/sujaykundu777/devlopr-jekyll/).
 
 ## Conclusion
 
-Yes, Yes i know it ain't much. Not even a 200 words long post, but hey its honest work afterall..:p Atleast thought to put something out here than to leave it for the tommorrow which is never!!
-And shut up it free after all..:p<br>
+Yes, Yes i know it ain't much. Not even a 200 words long post, but hey! its honest work atleast..:stuck_out_tongue: Thought to put atleast something out here, than to leave it for the tommorrow, which means never!!:satisfied:<br>
 Yes, Last but not least.. Stay tuned for more such "interesting" posts..<br>
-I also have little interests in hindi poetry!! So do check out my further posts which would include some hindi poems. Who knows i may be useful to you in "some" way..  
+I am also passionate about hindi poetry!! So, do check out my further posts which would also include some hindi poems and shayaris :blush:. Who knows, i may be useful to you in "some" way..:grin:

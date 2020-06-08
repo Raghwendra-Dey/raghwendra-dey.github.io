@@ -325,6 +325,7 @@ DEPENDENCIES
   jekyll-paginate (~> 1.1.0)
   jekyll-seo-tag (~> 2.6.1)
   jekyll-sitemap (~> 1.4.0)
+  jemoji
   jgd (~> 1.12)
   kramdown
   puma

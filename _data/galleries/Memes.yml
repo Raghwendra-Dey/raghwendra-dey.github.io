@@ -4,28 +4,28 @@ preview:
   original: 93904012_266374954759606_4247109295759425536_n.jpg
   sizes:
   - 93904012_266374954759606_4247109295759425536_n.jpg
-  thumbnail: 93904012_266374954759606_4247109295759425536_n.jpg
+  thumbnail: thumbnails/93904012_266374954759606_4247109295759425536_n-thumbnail.jpg
 pictures:
 - filename: 1
   original: 93904012_266374954759606_4247109295759425536_n.jpg
   sizes:
   - 93904012_266374954759606_4247109295759425536_n.jpg
-  thumbnail: 93904012_266374954759606_4247109295759425536_n.jpg
+  thumbnail: thumbnails/93904012_266374954759606_4247109295759425536_n-thumbnail.jpg
 - filename: 2
   original: 94888598_876025362915832_3360140348033597440_n.jpg
   sizes:
   - 94888598_876025362915832_3360140348033597440_n.jpg
-  thumbnail: 94888598_876025362915832_3360140348033597440_n.jpg
+  thumbnail: thumbnails/94888598_876025362915832_3360140348033597440_n-thumbnail.jpg
 - filename: 3
   original: 95138466_2905457879503071_5133973016786501632_n.jpg
   sizes:
   - 95138466_2905457879503071_5133973016786501632_n.jpg
-  thumbnail: 95138466_2905457879503071_5133973016786501632_n.jpg
+  thumbnail: thumbnails/95138466_2905457879503071_5133973016786501632_n-thumbnail.jpg
 - filename: 4
   original: Screenshot from 2020-03-17 21-27-26.png
   sizes:
   - Screenshot from 2020-03-17 21-27-26.png
-  thumbnail: Screenshot from 2020-03-17 21-27-26.png
+  thumbnail: thumbnails/Screenshot from 2020-03-17 21-27-26-thumbnail.jpg
 - filename: 5
   original: Screenshot from 2020-04-21 01-35-13.png
   sizes:
@@ -35,7 +35,7 @@ pictures:
   original: Screenshot from 2020-05-03 21-03-03.png
   sizes:
   - Screenshot from 2020-05-03 21-03-03.png
-  thumbnail: Screenshot from 2020-05-03 21-03-03.png
+  thumbnail: thumbnails/Screenshot from 2020-05-03 21-03-03-thumbnail.jpg
 - filename: 7
   original: Screenshot from 2020-05-03 21-07-15.png
   sizes:
@@ -46,12 +46,77 @@ pictures:
   sizes:
   - Screenshot from 2020-05-20 20-58-11.png
   thumbnail: Screenshot from 2020-05-20 20-58-11.png
-# - filename: 9
-#   original: 9.jpg
-#   sizes:
-#   - 9.jpg
-#   thumbnail: 9-thumbnail.jpg
-# - filename: 10
+- filename: 9
+  original: 6729691.png
+  sizes:
+  - 6729691.png
+  thumbnail: thumbnails/6729691-thumbnail.png
+- filename: 10
+  original: 8d70cd5.png
+  sizes:
+  - 8d70cd5.png
+  thumbnail: 8d70cd5.png
+- filename: 11
+  original: 102677077_142675700682001_4408199156661747712_o.jpg
+  sizes:
+  - 102677077_142675700682001_4408199156661747712_o.jpg
+  thumbnail: thumbnails/102677077_142675700682001_4408199156661747712_o-thumbnail.png
+- filename: 12
+  original: dfb9174.png
+  sizes:
+  - dfb9174.png
+  thumbnail: thumbnails/dfb9174-thumbnail.png
+- filename: 13
+  original: 100715034_141154674167437_8499571538108874752_o.jpg
+  sizes:
+  - 100715034_141154674167437_8499571538108874752_o.jpg
+  thumbnail: thumbnails/100715034_141154674167437_8499571538108874752_o-thumbnail.png
+- filename: 14
+  original: 98076004_2448293555461755_3021657480129150976_n.jpg
+  sizes:
+  - 98076004_2448293555461755_3021657480129150976_n.jpg
+  thumbnail: 98076004_2448293555461755_3021657480129150976_n.jpg
+- filename: 15
+  original: 99127678_964382407329819_7444950818316353536_o.jpg
+  sizes:
+  - 99127678_964382407329819_7444950818316353536_o.jpg
+  thumbnail: thumbnails/99127678_964382407329819_7444950818316353536_o-thumbnail.png
+- filename: 16
+  original: 99123302_1384747615055728_910478391818321920_o.jpg
+  sizes:
+  - 99123302_1384747615055728_910478391818321920_o.jpg
+  thumbnail: thumbnails/99123302_1384747615055728_910478391818321920_o-thumbnail.png
+- filename: 17
+  original: 99140952_1193983904276434_738677449415458816_o.jpg
+  sizes:
+  - 99140952_1193983904276434_738677449415458816_o.jpg
+  thumbnail: thumbnails/99140952_1193983904276434_738677449415458816_o-thumbnail.png
+- filename: 18
+  original: fcdf694.png
+  sizes:
+  - fcdf694.png
+  thumbnail: thumbnails/fcdf694-thumbnail.png
+- filename: 19
+  original: db8cd3f.png
+  sizes:
+  - db8cd3f.png
+  thumbnail: thumbnails/db8cd3f-thumbnail.png
+- filename: 20
+  original: 35b4ced.png
+  sizes:
+  - 35b4ced.png
+  thumbnail: thumbnails/35b4ced-thumbnail.png
+- filename: 21
+  original: 9cd23d3.png
+  sizes:
+  - 9cd23d3.png
+  thumbnail: thumbnails/9cd23d3-thumbnail.png
+- filename: 22
+  original: a49598d.png
+  sizes:
+  - a49598d.png
+  thumbnail: thumbnails/a49598d-thumbnail.png
+# - filename: 23
 #   original: 10.jpg
 #   sizes:
 #   - 10.jpg

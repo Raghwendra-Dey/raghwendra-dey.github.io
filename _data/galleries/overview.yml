@@ -1,9 +1,8 @@
--
-  title: Memes
+- title: Memes
   directory: Memes
   preview:
-    filename: Screenshot from 2020-03-17 21-27-26.png
-    original: Screenshot from 2020-03-17 21-27-26.png
+    filename: images (34).jpeg
+    original: images (34).jpeg
     sizes:
-    - Screenshot from 2020-03-17 21-27-26.png
-    thumbnail: Screenshot from 2020-03-17 21-27-26.png
+    - images (34).jpeg
+    thumbnail: images (34).jpeg
