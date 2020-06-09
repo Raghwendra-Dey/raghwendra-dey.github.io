@@ -1,7 +1,7 @@
 title: Raghwendra Dey
-subtitle: A Tech Enthusiast, poet and a continous learner
+subtitle: A Tech Enthusiast, poet and a continuous learner
 description: >- # this means to ignore newlines until "baseurl:"
-  Raghwendra Dey - A Tech Enthusiast, poet and a continous learner
+  Raghwendra Dey - A Tech Enthusiast, poet and a continuous learner
 
 url: https://raghwendra-dey.github.io # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,11 +22,11 @@ urls:
 
 author_logo: profile.jpeg
 author: Raghwendra Dey
-author_bio: Hi, my name is Raghwendra Dey. I am a tech enthusiast, poet, a continous learner, in short one who is interested in each and every aspect of computers, and literature!! Do check out my Blogs for some cool and interesting stuffs :D. I am currently a third year student of the department of Electrical Engg. enrolled in its Instrumentation Engg. B.Tech. course (To Kgp people this last line might sound familiar :p, rest audience dm me if you can't control your curiosity :p)
+author_bio: Hi, my name is Raghwendra Dey. I am a tech enthusiast, poet, a continuous learner, in short one who is interested in each and every aspect of computers, and literature!! Do check out my Blogs for some cool and interesting stuffs :D. I am currently a third year student of the department of Electrical Engg. enrolled in its Instrumentation Engg. B.Tech. course (To Kgp people this last line might sound familiar :p, rest audience dm me if you can't control your curiosity :p)
 author_email: "kumarraghav075@gmail.com"
 author_location: Kharagpur, India
 author_website_url: "https://raghwendra-dey.github.io"
-typewrite-text: A Tech Enthusiast, poet and a continous learner
+typewrite-text: A Tech Enthusiast, poet and a continuous learner
 
 # author_work_experiences:
 #             - company_name: Think.iT
