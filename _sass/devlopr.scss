@@ -44,7 +44,7 @@ html[data-theme="light"] {
     --button-background-color: #fff;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: "dark") {
      /* Dark Mode */
     html,
     html[data-theme="dark"] {
