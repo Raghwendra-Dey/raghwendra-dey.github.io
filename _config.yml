@@ -62,8 +62,8 @@ author_education_details:
               - college_logo: iit.jpeg
                 college_name: IIT Kharagpur
                 college_url: http://www.iitkgp.ac.in/
-                college_degree: Bachelor of Technology(B. Tech.)
-                description: Major in Instrumentation Engg, with Minor in Computer Science Engg.
+                college_degree: Bachelor of Technology (B. Tech.)
+                description: Major in Instrumentation Engg, with Minor in Computer Science Engg.<br> 2018-2022
                 visibility: true
               # - college_logo: insat.jpg
               #   college_name: INSAT
